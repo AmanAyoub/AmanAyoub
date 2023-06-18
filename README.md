@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmanAyoub
 - 👀 I’m interested in building mobile apps.
-- 🌱 I’m currently learning Python in Code in place, Stanford University.
-- 💞️ I'm looking for cooperation to learn coding different languages.
+- 🌱 I’m currently programming student.
+- 💞️ I'm looking for cooperation to learn programming different languages.
 - 📫 How to reach me aman.ayoub16@gmail.com
 
 <!---
