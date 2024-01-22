@@ -1,5 +1,5 @@
 Junior developer with a keen interest in full-stack development. 
-Proficient in `JavaScript`, `HTML`, and `CSS`, with a growing portfolio of projects showcasing my problem-solving abilities. 
+Proficient in `JavaScript`, `Python`, `HTML`, and `CSS`, with a growing portfolio of projects showcasing my problem-solving abilities. 
 Seeking opportunities to learn from and work alongside talented developers to build impactful software solutions.
 
 <!---
