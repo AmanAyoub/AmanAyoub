@@ -1,5 +1,4 @@
 # hey there!
----
 
 currently:
   software engineering student
